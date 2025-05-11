@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/1053007/1053007/mlruns/487903227e1e4ecdb630fdc13a233517/artifacts
+end_time: 1746938489788
+entry_point_name: ''
+experiment_id: '211633436607851750'
+lifecycle_stage: active
+run_id: 487903227e1e4ecdb630fdc13a233517
+run_name: skillful-cub-385
+run_uuid: 487903227e1e4ecdb630fdc13a233517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746938486939
+status: 3
+tags: []
+user_id: runner
